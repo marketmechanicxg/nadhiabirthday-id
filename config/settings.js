@@ -80,26 +80,26 @@ const MEMORIES = [
   {
     depth: "2m",
     year:  "Chapter One",
-    title: "where it all started",
-    text:  "that exact moment when everything just clicked, dan tiba-tiba semuanya mulai make so much sense.",
+    title: "Your Smile",
+    text:  "It lights up every room and every corner of my heart simultaneously.",
   },
   {
     depth: "8m",
     year:  "Chapter Two",
-    title: "the quiet days",
-    text:  "literally cuma kamu, aku, and those lil simple moments yang ternyata ended up meaning everything.",
+    title: "Your Soul",
+    text:  "Rare, genuine, and more beautiful than any flower ever grown.",
   },
   {
     depth: "16m",
     year:  "Chapter Three",
-    title: "through the storms",
-    text:  "we've had our rough patches fr, ada badai dan chaos juga, but somehow kita selalu find our way back to each other.",
+    title: "Your Kindness",
+    text:  "The way you love the world makes me want to be better every single day.",
   },
   {
     depth: "24m",
     year:  "Chapter Four",
-    title: "finding the light",
-    text:  "you're genuinely the brightest part of my whole journey, yang selalu bikin everything feels a little lighter even when things get heavy.",
+    title: "Your Laughter",
+    text:  "The best sound in the universe. My favourite melody, always.",
   },
 ];
 
